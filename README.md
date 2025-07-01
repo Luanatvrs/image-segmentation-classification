@@ -48,3 +48,8 @@ Modelos treinados com dados tratados apresentaram métricas superiores (precisã
 ## Autora
 
 Luana – Desenvolvedora em IA aplicada e otimização de modelos.
+
+## Referência
+
+Image Segmentation [Dataset]. (1990). UCI Machine Learning Repository. https://doi.org/10.24432/C5GP4N
+
